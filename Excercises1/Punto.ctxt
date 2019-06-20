@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Punto
+comment1.params=pX
+comment1.target=void\ setX(double)
+comment1.text=\r\n\ GETTERS\ &&\ SETTERS\r\n
+comment10.params=ptoDistante
+comment10.target=double\ distanciaA(Punto)
+comment2.params=pY
+comment2.target=void\ setY(double)
+comment3.params=
+comment3.target=double\ getX()
+comment4.params=
+comment4.target=double\ getY()
+comment5.params=pX\ pY
+comment5.target=Punto(double,\ double)
+comment5.text=\r\n\ Constructor\ for\ objects\ of\ class\ Punto\r\n
+comment6.params=
+comment6.target=Punto()
+comment7.params=pX\ pY
+comment7.target=void\ desplazar(double,\ double)
+comment8.params=
+comment8.target=java.lang.String\ coordenadas()
+comment9.params=
+comment9.target=void\ mostrar()
+numComments=11

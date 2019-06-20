@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Hombre2
+comment1.params=pNom\ pApe\ pFN\ pEC\ pEsposx
+comment1.target=Hombre2(java.lang.String,\ java.lang.String,\ java.util.Calendar,\ java.lang.String,\ Persona)
+comment2.params=pNom\ pApe\ pFN
+comment2.target=Hombre2(java.lang.String,\ java.lang.String,\ java.util.Calendar)
+numComments=3

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=RegistroCivilActualizado
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=casadaFlag
+comment2.target=Mujer2\ tratarMujer(boolean)
+comment3.params=casadoFlag
+comment3.target=Hombre2\ tratarHombre(boolean)
+comment4.params=fecha
+comment4.target=boolean\ validarFecha(java.lang.String)
+numComments=5

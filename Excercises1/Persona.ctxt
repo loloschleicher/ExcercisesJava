@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Persona
+comment0.text=\r\n\ *********\ EJERCICIO\ 5\ *********\r\n\ Write\ a\ description\ of\ class\ Persona\ here.\r\n\ \r\n\ @author\ Augusto\ Portillo\ \r\n\ @version\ 1.0\r\n
+comment1.params=dni\ nombre\ apellido
+comment1.target=Persona(int,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Persona\r\n
+comment2.params=dni
+comment2.target=void\ setDni(int)
+comment3.params=nombre
+comment3.target=void\ setNombre(java.lang.String)
+comment4.params=apellido
+comment4.target=void\ setApellido(java.lang.String)
+comment5.params=
+comment5.target=int\ getDni()
+comment6.params=
+comment6.target=java.lang.String\ getNombre()
+comment7.params=
+comment7.target=java.lang.String\ getApellido()
+comment8.params=
+comment8.target=void\ mostrarDatos()
+comment9.params=
+comment9.target=java.lang.String\ nombreYapellido()
+numComments=10

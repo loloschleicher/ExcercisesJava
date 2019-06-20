@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Aplicacion
+comment1.params=
+comment1.target=void\ main()
+comment2.params=fecha
+comment2.target=boolean\ validarFecha(java.lang.String)
+comment3.params=
+comment3.target=Dron\ crearDrone()
+comment4.params=dron
+comment4.target=Alquiler\ crearAlquiler(Dron)
+comment5.params=
+comment5.target=int\ agregarUnServicioAdicional()
+numComments=6

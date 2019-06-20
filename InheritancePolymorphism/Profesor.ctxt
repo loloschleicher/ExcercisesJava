@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Profesor
+comment0.text=\r\n\ Ejemplo\ de\ herencia,\ clase\ hija\ \r\n
+comment1.params=nombre\ apellidos\ edad
+comment1.target=Profesor(java.lang.String,\ java.lang.String,\ int)
+comment2.params=IdProfesor
+comment2.target=void\ setIdProfesor(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getIdProfesor()
+comment4.params=
+comment4.target=void\ mostrar()
+numComments=5

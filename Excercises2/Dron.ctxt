@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Dron
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Dron\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=java.lang.String\ getModelo()
+comment2.params=modelo
+comment2.target=void\ setModelo(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getDefinicion()
+comment4.params=definicion
+comment4.target=void\ setDefinicion(java.lang.String)
+comment5.params=p_cod\ p_mod\ p_def
+comment5.target=Dron(int,\ java.lang.String,\ java.lang.String)
+comment6.params=
+comment6.target=double\ costoPorHora()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment7.text=\ El\ m\u00E9todo\ toString\ ()\ de\ la\ clase\ Dron,\ devuelve\ un\ String\ con\ el\ siguiente\ formato\:\r\nModelo\ de\ Dron\:\ DJI\ Phantom\ 3\ \u2013\ Definici\u00F3n\:\ 4k\ -\ Costo\ por\ Hora\:\ $\ 1500.00
+numComments=8

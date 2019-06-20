@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=CuentaBancaria
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ CuentaBancaria\ here.\r\n\ \r\n\ @author\ Augusto\ Portillo\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=int\ getNro()
+comment10.params=pImporte
+comment10.target=void\ extraer(double)
+comment11.params=
+comment11.target=void\ mostrar()
+comment2.params=nro
+comment2.target=void\ setNro(int)
+comment3.params=
+comment3.target=double\ getSaldo()
+comment4.params=saldo
+comment4.target=void\ setSaldo(double)
+comment5.params=
+comment5.target=Persona\ getTitular()
+comment6.params=titular
+comment6.target=void\ setTitular(Persona)
+comment7.params=pNro\ pTitular
+comment7.target=CuentaBancaria(int,\ Persona)
+comment8.params=pNro\ pSaldo\ pTitular
+comment8.target=CuentaBancaria(int,\ double,\ Persona)
+comment9.params=pImporte
+comment9.target=void\ depositar(double)
+numComments=12
